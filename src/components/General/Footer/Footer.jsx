@@ -9,7 +9,7 @@ const Footer = () => {
           <ButtonNav texto={'Home'} style={'text-muted'} />
           <ButtonNav texto={'Characters'} style={'text-muted'}/>
         </ul>
-        <p className="text-center text-muted">© 2023, <a href="https://github.com/emilianogasco" className='text-decoration-none text-muted'>Emiliano Gasco</a></p>
+        <p className="text-center text-muted">© 2023, <a href="https://github.com/emilianogasco1999" className='text-decoration-none text-muted'>Emiliano Gasco</a></p>
       </footer>
     </div>
   )
